@@ -14,3 +14,5 @@ b1.csv, b2.csv, b3.csv, b4.csv are the csv files with some of the data cleaned, 
 b1Mean.csv, b2Mean.csv, b3Mean.csv, b4Mean.csv are the csv files with the cleaned data and mean imputation.
 
 Capstone Project.pdf is a pdf of the poster.
+
+Capstone Project Ruhlman.pdf is a pdf of the updated poster for Ruhlman.
